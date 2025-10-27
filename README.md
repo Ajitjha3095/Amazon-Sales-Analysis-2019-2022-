@@ -30,5 +30,5 @@ This setup empowers comprehensive data analysis and visualization! 🔍
 
 ## Author 📝
 
-**Ajit Jha**  
+**[Ajit Jha]([url](https://ajitjha.netlify.app/))**  
 Senior Data Research Analyst
